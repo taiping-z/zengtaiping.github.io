@@ -17,15 +17,15 @@ baseurl: ""
 title: Taiping Zeng
 
 # Short description of your site
-description:
+description: "Taiping's personal web page"
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Projects:
-  Publications:
-  About Me: "aboutme"
+  Publications: "publications"
+  Resume: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -95,7 +95,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-108862711-1"
 
 # Google Tag Manager ID
 #gtm: ""
