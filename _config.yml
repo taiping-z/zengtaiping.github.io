@@ -23,6 +23,7 @@ description: "Taiping's personal web page"
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   Projects: "projects"
   Publications: "publications"
   Resume: "aboutme"
