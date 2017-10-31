@@ -20,12 +20,12 @@ Nanta Street 114#, 110016, Shenyang, Liaoning, China
 University of Chinese Academy of Sciences <br >
 Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China <br />
 _Thesis_: *Research on Navigation System based on Spatial Cognition*  <br />
-Advisor: _Bailu Si_ <br />
+Advisor: [Bailu Si](http://people.ucas.ac.cn/~bailu) <br />
 
 - 2013 – 2015 **Visiting Student Researcher, Biomedical Engineering** <br />
 Southern University of Science and Technology, Shenzhen, China <br />
 _Thesis_: *Unilateral Laryngeal Pacing System* <br />
-Advisor: _Fangyi Chen_ <br />
+Advisor: [Fangyi Chen](http://bme.sustc.edu.cn/index/en.html?page_id=132&content_id=192&type=team_details) <br />
 
 - 2009 – 2013 **B.S., Mechatronics Engineering** <br />
 University of Electronic Science and Technology of China, Chengdu, China<br />
