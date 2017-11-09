@@ -25,7 +25,7 @@ Advisor: _Bailu Si_ <br />
 
 - 2013 – 2015 **Joint Training Student, Biomedical Engineering** <br />
 Southern University of Science and Technology, Shenzhen, China <br />
-_Thesis_: *Unilateral Laryngeal Pacing System* <br />
+_Thesis_: *Research on Unilateral Laryngeal Pacing System* <br />
 Advisor: _Fangyi Chen_ <br />
 
 - 2009 – 2013 **B.S., Mechatronics Engineering** <br />
