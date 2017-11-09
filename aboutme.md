@@ -23,7 +23,7 @@ Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China <
 _Thesis_: *Research on Navigation System based on Spatial Cognition*  <br />
 Advisor: _Bailu Si_ <br />
 
-- 2013 – 2015 **Visiting Student Researcher, Biomedical Engineering** <br />
+- 2013 – 2015 **Joint Training Student, Biomedical Engineering** <br />
 Southern University of Science and Technology, Shenzhen, China <br />
 _Thesis_: *Unilateral Laryngeal Pacing System* <br />
 Advisor: _Fangyi Chen_ <br />
