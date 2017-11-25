@@ -6,7 +6,7 @@ subtitle:
 
 ### 2017
 - **[Front. Neurobo.] Cognitive Mapping Based on Conjunctive Representations of Space and Movement** <br >
-**Taiping Zeng**, Bailu Si, “Cognitive Mapping Based on Conjunctive Representations of Space and Movement” Frontiers in Neurorobotics.  (Accepted)
+**Taiping Zeng**, and Bailu Si. "Cognitive Mapping Based on Conjunctive Representations of Space and Movement." Frontiers in Neurorobotics 11 (2017): 61. https://doi.org/10.3389/fnbot.2017.00061
 
 - **[Poster & Talk] Cold Spring Harbor Francis Crick Symposium** <br >
 Francis Crick Symposium – Transforming Neurosciences: Questions & Experiments, May, 8 to 12, 2017, “Neurobiologically Inspired Bayesian Integration of Sensory and Movement Information for Robot Navigation”. 
