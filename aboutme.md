@@ -17,21 +17,21 @@ Nanta Street 114#, 110016, Shenyang, Liaoning, China
 
 ### EDUCATION
 
-- 2015 – present **Ph.D., Pattern Recognition and Intelligent Systems** <br />
+- 2015 – present Ph.D., **Pattern Recognition and Intelligent Systems** <br />
 University of Chinese Academy of Sciences <br >
 Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China <br />
-_Thesis_: *Research on Navigation System based on Spatial Cognition*  <br />
+_Thesis_: **Research on Robot Navigation System based on Spatial Cognition**  <br />
 Advisor: _Bailu Si_ <br />
 
-- 2013 – 2015 **Joint Training Student, Biomedical Engineering** <br />
+- 2013 – 2015 Joint Training Student, **Biomedical Engineering** <br />
 Southern University of Science and Technology, Shenzhen, China <br />
-_Thesis_: *Research on Unilateral Laryngeal Pacing System* <br />
+_Thesis_: **Research on Portable Unilateral Laryngeal Pacing System** <br />
 Advisor: _Fangyi Chen_ <br />
 
-- 2009 – 2013 **B.S., Mechatronics Engineering** <br />
+- 2009 – 2013 B.S., **Mechatronics Engineering** <br />
 University of Electronic Science and Technology of China, Chengdu, China<br />
 
-- 2008 – 2015 **B.S. & M.S., Automation** (Postgraduate recommendation)<br /> 
+- 2008 – 2015 B.S. & M.S., **Automation** (Postgraduate recommendation)<br /> 
 Southwest Petroleum University, Chengdu, China <br />
 
 ### RESEARCH                                            
