@@ -35,7 +35,7 @@ University of Electronic Science and Technology of China, Chengdu, China<br />
 Southwest Petroleum University, Chengdu, China <br />
 
 ### RESEARCH                                            
-- 2016 - present, **Research on Simultaneous Localization and Mapping Based on Cognitive Mechanism** <br />
+- 2016 - present, **Research on Robot Navigation System based on Spatial Cognition** <br />
 Grant by: _The Distinguished Young Scholar Project of the Thousand Talents Program of China, Chinese Academy of Sciences_ <br />
 **My assignments**: <br />
 	- Model entorhinal-hippocampal cortex for spatial cognitive navigation <br />
