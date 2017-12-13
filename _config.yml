@@ -25,7 +25,7 @@ description: "Taiping's personal web page"
 navbar-links:
   Home: ""
   Projects: "projects"
-  MOOCs: "MOOCs"
+  MOOCs: "moocs"
   Publications: "publications"
   Resume: "aboutme"
 #  Resources:
