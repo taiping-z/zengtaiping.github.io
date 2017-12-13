@@ -82,8 +82,9 @@ Northeast University, Shenyang, China <br />
 - Sep 2012, **Excellent Prize of A-B Cup Automation System Application Contest** <br />
 - Dec 2011, **Second Prize of China Education Robotics Competition** <br />
 - Nov 2011, **Second Prize of Renesas Cup National Undergraduate Electronic Design Contest** <br />
+- Nov 2011, **Third Prize of Extracurricular Undergraduate Key Research Project of University** <br />
 - Sep 2011, **First Prize in Sichuan Division of TI Cup National Undergraduate Electronic Design Contest** <br /> 
-- Jun 2011, **Excellent Prize in Western Division of Freescale Cup National Undergraduate intelligent Car Race** <br /> 
-- Dec 2010, **Second Prize in University Division of Freescale Cup National Undergraduate intelligent Car Race**  <br />  
+- Jun 2011, **Excellent Prize in Western Division of Freescale Cup National Undergraduate intelligent Car Contest** <br /> 
+- Dec 2010, **Second Prize in University Division of Freescale Cup National Undergraduate intelligent Car Contest**  <br />  
 
 
