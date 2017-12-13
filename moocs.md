@@ -19,6 +19,7 @@ Some of the courses I learned includes:
 
 ### Robotics
 - Introduction to Robotics (Sep 2015) - NetEase OpenCourse(Stanford University, Oussama Khatib)
+- Artificial Intelligence for Robotics (Jul 2016) - Udacity(Stanford University, Sebastian Thrun)
 
 ### AI
 - Machine Learning (Nov 2015) -  Coursera(Stanford University, Andrew Ng)
