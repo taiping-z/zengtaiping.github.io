@@ -11,7 +11,7 @@ Some of the courses I learned includes:
 
 ### Neurosciences
 - Simulation Neuroscience(Jul 2017) - edx(EPFL, Henry Markram & Idan Segev)
-- Computational Neur- Simulation Neuroscience(Jul 2017) - edx(EPFL, Henry Markram & Idan Segev)
+- Computational Neuroscience(Nov 2016) - Coursera(University of Washington, Rajesh P. N. Rao & Adrienne Fairhall)
 - Synapses, Neurons and Brains (Jun 2016) - Coursera(Hebrew University,Idan Segev)
 - The Brain and Space(May 2016) - Coursera(Duke University,  Jennifer Groh)
 - Computational Neuroscience(Apr 2016) - sharecourse(National Tsing Hua University, Chung-Chuan Lo)
