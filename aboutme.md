@@ -13,7 +13,6 @@ Shenyang Institute of Automation (SIA), Chinese Academy of Sciences <br />
 Nanta Street 114#, 110016, Shenyang, Liaoning, China
 <!--Mobile: +86 186 1719 6955-->
 - Email: taiping.z@outlook.com
-- Email: taiping.z.im@gmail.com
 
 ### EDUCATION
 
