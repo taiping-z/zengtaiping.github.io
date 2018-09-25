@@ -23,7 +23,8 @@ Some of the courses I learned includes:
 - Introduction to Robotics (Sep 2015) - NetEase OpenCourse(Stanford University, Oussama Khatib)
 
 ### AI
-- Deeplearning.AI Specialization(2017) - Coursera(Stanford University, Andrew Ng)(ongoing)
+- UCL Course on Reinforcement Learning (2018) - UCL ( David Silver, DeepMind)
+- Deeplearning.AI Specialization(2017) - Coursera(Stanford University, Andrew Ng)
 - Python for Everybody Specialization(2016) - Coursera(University of Michigan, Charles Severance)
 - Machine Learning (Nov 2015) -  Coursera(Stanford University, Andrew Ng)
 
