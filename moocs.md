@@ -18,6 +18,7 @@ Some of the courses I learned includes:
 - Cognitive Neuroscience Robotics – Part A(Apr 2016) - edx(Osaka University, Shojiro)
 
 ### Robotics
+- Autonomous Mobile Robots (Sep 2018) - Edx(ETHx, Roland Siegwart) - Autonomous Systems Lab
 - Robotics (Mar 2018) - Edx(Columbia University, Matei Ciocarlie) - Mobile Manipulation
 - Artificial Intelligence for Robotics (Jul 2016) - Udacity(Stanford University, Sebastian Thrun)
 - Introduction to Robotics (Sep 2015) - NetEase OpenCourse(Stanford University, Oussama Khatib)
