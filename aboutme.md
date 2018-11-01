@@ -65,7 +65,7 @@ Grant by: _National Science and Technology Major Project_<br />
 	- Computer software design <br />
 
 ### EXPERIENCE
-- 2015 – 2018 Research Assistant, University of Chinese Academy of Sciences 
+- 2015 – 2018 Research Assistant, University of Chinese Academy of Sciences <br />
 - 2016 **Computational Neuroscience Winter School** <br />
 Shanghai Jiaotong University, Shanghai, China <br />
 <br />
@@ -75,7 +75,7 @@ Bordeaux Neurocampus, France (*declined for visa problems*)<br />
 - 2016 **Artificial Intelligence and Robotics International Summer School** <br />
 Northeast University, Shenyang, China <br />
 <br />
-- 2013 – 2015 Visiting Research Student, Southern University of Science and Technology
+- 2013 – 2015 Visiting Research Student, Southern University of Science and Technology <br />
 - 2011 - 2013, **Laboratory & Teaching Assistant** <br />
 **My assignments**: <br />
 	+ Maintain laboratory equipment of Rockwell Automation PLC <br />
