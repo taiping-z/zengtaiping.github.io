@@ -15,7 +15,7 @@ subtitle:
 Brain Science and Brain-Inspired Computing Symposium, Oct, 18 to 20, 2018, “Neural 	Dynamics of Spatial Memory”.
 
 - **[Poster & Talk] Cold Spring Harbor Francis Crick Symposium** <br >
-Francis Crick Symposium – Transforming Neurosciences: Questions & Experiments, May, 8 to 12, 2017, “Neurobiologically Inspired Bayesian Integration of Sensory and Movement Information for Robot Navigation”. 
+Francis Crick Symposium – Transforming Neurosciences: Questions & Experiments, May, 8 to 12, 2017, “Neurobiologically Inspired Bayesian Integration of Sensory and Movement Information for Robot Navigation”.
 
 
 
