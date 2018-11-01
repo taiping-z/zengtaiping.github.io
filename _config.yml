@@ -24,10 +24,10 @@ description: "Taiping's personal web page"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Projects: "projects"
+  Research: "research"
   MOOCs: "moocs"
   Publications: "publications"
-  Resume: "aboutme"
+  Resume: "resume"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
