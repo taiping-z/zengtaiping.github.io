@@ -10,7 +10,6 @@ My name is Taiping Zeng. I am a Ph.D. candidate in computational neuroscience an
 
 - State Key Laboratory of Robotics, <br />
 Shenyang Institute of Automation, <br />
-Institutes for Robotics and Intelligent Manufacturing, <br />
 Chinese Academy of Sciences <br />
 Nanta Street 114#, 110016, Shenyang, Liaoning, China
 <!--Mobile: +86 186 1719 6955-->
@@ -24,7 +23,7 @@ Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China <
 _Thesis_: **Research on Navigation System based on Spatial Cognition**  <br />
 Advisor: _Bailu Si_ <br />
 
-- 2013 – 2015 Joint Training Student, Biomedical Engineering <br />
+- 2013 – 2015 Visiting Research Student, Biomedical Engineering <br />
 Southern University of Science and Technology, Shenzhen, China <br />
 _Thesis_: **Research on Portable Unilateral Laryngeal Pacing System** <br />
 Advisor: _Fangyi Chen_ <br />
@@ -66,7 +65,7 @@ Grant by: _National Science and Technology Major Project_<br />
 	- Computer software design <br />
 
 ### EXPERIENCE
-
+- 2015 – 2018 Research Assistant, University of Chinese Academy of Sciences 
 - 2016 **Computational Neuroscience Winter School** <br />
 Shanghai Jiaotong University, Shanghai, China <br />
 <br />
@@ -76,6 +75,7 @@ Bordeaux Neurocampus, France (*declined for visa problems*)<br />
 - 2016 **Artificial Intelligence and Robotics International Summer School** <br />
 Northeast University, Shenyang, China <br />
 <br />
+- 2013 – 2015 Visiting Research Student, Southern University of Science and Technology
 - 2011 - 2013, **Laboratory & Teaching Assistant** <br />
 **My assignments**: <br />
 	+ Maintain laboratory equipment of Rockwell Automation PLC <br />
