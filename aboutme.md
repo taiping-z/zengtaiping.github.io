@@ -68,13 +68,10 @@ Grant by: _National Science and Technology Major Project_<br />
 - 2015 – 2018 Research Assistant, University of Chinese Academy of Sciences <br />
 - 2016 **Computational Neuroscience Winter School** <br />
 Shanghai Jiaotong University, Shanghai, China <br />
-<br />
 - 2016 **CAJAL Course: Hippocampus: from Circuits to Cognition** <br />
 Bordeaux Neurocampus, France (*declined for visa problems*)<br />
-<br />
 - 2016 **Artificial Intelligence and Robotics International Summer School** <br />
 Northeast University, Shenyang, China <br />
-<br />
 - 2013 – 2015 Visiting Research Student, Southern University of Science and Technology <br />
 - 2011 - 2013, **Laboratory & Teaching Assistant** <br />
 **My assignments**: <br />
