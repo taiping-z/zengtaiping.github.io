@@ -49,7 +49,7 @@ Grant by: _The Distinguished Young Scholar Project of the Thousand Talents Progr
 	- Build brain-inspired robotic systems based on ROS <br />
 <br />
 - 2013 - 2015, **Research on Portable Unilateral Laryngeal Pacing System** <br />
-Joint training in Biomedical Engineering, South University of Science and Technology of China <br />
+Visiting Research Student in Biomedical Engineering, South University of Science and Technology of China <br />
 Grant by: _The National Natural Science Foundation of China, the Shenzhen Overseas Talents Innovation Plan of Technical Innovation_ <br />
 **My assignments**: <br />
 	- Physiological signal recording instrument system design <br />
