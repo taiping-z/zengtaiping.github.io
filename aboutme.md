@@ -35,9 +35,9 @@ University of Electronic Science and Technology of China, Chengdu, China<br />
 Southwest Petroleum University, Chengdu, China <br />
 
 ### INTERESTS
-Spatial Cognition and Navigation,
-Computational Neuroscience,
-Autonomous Mobile Robots
+- Spatial Cognition and Navigation,
+- Computational Neuroscience,
+- Autonomous Mobile Robots
 
 ### RESEARCH                                            
 - 2016 - present, **Research on Navigation System based on Spatial Cognition** <br />
