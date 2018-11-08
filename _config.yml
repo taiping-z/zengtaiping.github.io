@@ -24,7 +24,7 @@ description: "Taiping's personal web page"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Research: "research"
+#  Research: "research"
   MOOCs: "moocs"
   Publications: "publications"
   Resume: "resume"
