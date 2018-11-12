@@ -17,7 +17,7 @@ baseurl: ""
 title: Taiping Zeng
 
 # Short description of your site
-description: "Taiping's personal web page"
+description: "Taiping's academic page"
 
 # --- Navigation bar options --- #
 
@@ -48,7 +48,7 @@ avatar: "/img/brainwithgear.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Taiping Zeng
-  email: "taiping.z@outlook.com"
+  email: "zengtaiping.ac@gmail.com"
 #  facebook: yourname  # eg. daattali
   github: "zengtaiping"    # eg. daattali
   twitter: yourname   # eg. daattali
