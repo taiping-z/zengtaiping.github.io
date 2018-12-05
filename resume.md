@@ -15,6 +15,12 @@ Nanta Street 114#, 110016, Shenyang, Liaoning, China
 <!--Mobile: +86 186 1719 6955-->
 - Email: zengtaiping.ac@gmail.com
 
+### INTERESTS
+- Spatial Cognition and Navigation,
+- Computational Neuroscience,
+- Autonomous Mobile Robots
+- Brain-inspired Intelligence
+
 ### EDUCATION
 
 - 2015 – present Ph.D., Pattern Recognition and Intelligent Systems <br />
@@ -34,10 +40,6 @@ University of Electronic Science and Technology of China, Chengdu, China<br />
 - 2008 – 2015 B.S. & M.S., Automation (Postgraduate recommendation)<br /> 
 Southwest Petroleum University, Chengdu, China <br />
 
-### INTERESTS
-- Spatial Cognition and Navigation,
-- Computational Neuroscience,
-- Autonomous Mobile Robots
 
 ### RESEARCH                                            
 - 2016 - present, **Research on Navigation System based on Spatial Cognition** <br />
